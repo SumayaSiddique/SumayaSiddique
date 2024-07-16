@@ -43,6 +43,6 @@ I thrive on challenges that push me to innovate and grow. With a background in C
 
 ## Let's Connect! 🌐
 
-Feel free to reach out for collaboration opportunities or just to chat! Connect with me on [LinkedIn]([https://www.linkedin.com/in/sumaya-siddique-1a78451a9/]) and explore my projects on [GitHub](https://github.com/SumayaSiddique).
+Feel free to reach out for collaboration opportunities or just to chat! Connect with me on [LinkedIn](https://www.linkedin.com/in/sumaya-siddique-1a78451a9/) and explore my projects on [GitHub](https://github.com/SumayaSiddique).
 
 Let's code for a brighter, sustainable future! 🌍✨
